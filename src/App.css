@@ -2,3 +2,32 @@
   text-align: center;
 }
 
+.nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(36, 35, 35);
+  color: #fff;
+}
+
+form {
+  margin-top: 10px;
+}
+
+button {
+  cursor: pointer;
+  padding: 7px 10px;
+  background-color: cadetblue;
+  color: #fff;
+  border: none;
+  outline: none;
+  margin: 10px;
+  border-radius: 7px;
+}
+
+input {
+  outline: none;
+  border: 1px solid cadetblue;
+  border-radius: 10px;
+  margin-left: 5px;
+  padding: 5px;
+}
